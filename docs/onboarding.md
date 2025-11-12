@@ -31,7 +31,6 @@
 
 ## Contactos y soporte
 
-- Product Owner: definir canal (Slack, Teams, etc.).
-- Equipo Core: responsable de preguntas sobre lógica y API.
-- Equipo Infra/SRE: soporte para entornos dockerizados y despliegues.
+- Canal principal (Product Owner y equipo técnico): Telegram `https://t.me/osm_notes_latam`. Actualmente la coordinación está a cargo de Angie; en el futuro se integrará Rafael (`risturiz`).
+- TODO: definir y publicar el correo de contacto oficial cuando esté disponible.
 
